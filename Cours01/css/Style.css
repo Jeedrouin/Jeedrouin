@@ -1,0 +1,10 @@
+body
+{
+    width: 900 px;
+    width: 100%;
+    margin:auto;
+
+    background: url (../MG\Fond.jpg); no-repeat center;
+    margin: auto;
+    background: lightslategray;
+}
