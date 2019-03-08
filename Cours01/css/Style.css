@@ -1,10 +1,44 @@
 body
 {
-    width: 900 px;
-    width: 100%;
-    margin:auto;
+    width:900px; width:100%; margin:auto;
 
-    background: url (../MG\Fond.jpg); no-repeat center;
-    margin: auto;
-    background: lightslategray;
+    background: url(../IMG/Fond.jpg) center;    margin: auto;    background-color:lightslategray;
+}
+h1
+{
+    font-size:36px;
+    text-align:center;
+}
+h2
+{
+    font-size:24px;
+    text-align:center;
+}
+h1,h2
+{
+    color: honeydew;
+}
+p
+{
+    font-size:14px;
+    text-align:justify;
+    color: ghostwhite;
+}
+img
+{
+    width:300px; width:70%; margin:auto; border-radius:50px; box-shadow:5px 10px; display:block;
+}
+table
+{
+    border:10px black;
+}
+ul
+{
+    font-size:20px;
+    color: ghostwhite;
+}
+ol
+{
+    font-size:20px;
+    color: ghostwhite;
 }
