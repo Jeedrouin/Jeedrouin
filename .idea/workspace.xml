@@ -10,8 +10,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Han Solo/Css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -19,11 +19,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -57,10 +57,11 @@
         <option value="$PROJECT_DIR$/Cours01/onePageClasse.html" />
         <option value="$PROJECT_DIR$/Han Solo/index.html" />
         <option value="$PROJECT_DIR$/Han Solo/style.css" />
+        <option value="$PROJECT_DIR$/Han Solo/Css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="89" />
     <option name="y" value="223" />
     <option name="width" value="1400" />
@@ -99,13 +100,13 @@
               <item name="Jeedrouin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jeedrouin" type="462c0819:PsiDirectoryNode" />
               <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="font" type="462c0819:PsiDirectoryNode" />
+              <item name="Css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jeedrouin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jeedrouin" type="462c0819:PsiDirectoryNode" />
               <item name="Han Solo" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -123,11 +124,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jee\OneDrive\www\Jeedrouin\Han Solo\Css" />
+      <recent name="C:\Users\Jee\OneDrive\www\Jemepresente" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jee\OneDrive\www\Jeedrouin\Cours01" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jee\OneDrive\www\Jemepresente" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,12 +178,12 @@
       <workItem from="1552603130107" duration="246000" />
       <workItem from="1552603431978" duration="3674000" />
       <workItem from="1552668016353" duration="595000" />
-      <workItem from="1552740959892" duration="7716000" />
+      <workItem from="1552740959892" duration="8204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30819000" />
+    <option name="totallyTimeSpent" value="31307000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,17 +274,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Han Solo/style.css">
+    <entry file="file://$PROJECT_DIR$/Han Solo/Css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Han Solo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

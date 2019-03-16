@@ -1,12 +1,12 @@
 @font-face{
-    font-family: 'Jedi';
-    src:url("../font/starjedi")
+    font-family: Jedi;
+    src:url("../font/starjedi");
 }
 
 body
 {
     width: 1000px;
-    background: url(img/etoileMort.jpg) no-repeat;
+    background: url(../img/etoileMort.jpg) no-repeat;
     background-color: black; margin: auto;
 }
 h1
