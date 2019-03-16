@@ -1,0 +1,51 @@
+@font-face{
+    font-family: 'Jedi';
+    src:url("../font/starjedi")
+}
+
+body
+{
+    width: 1000px;
+    background: url(img/etoileMort.jpg) no-repeat;
+    background-color: black; margin: auto;
+}
+h1
+{
+ font-size: 140px; color:yellow; text-align: center; margin:0px; font-family: Jedi
+}
+
+h2, h3, h4
+{
+    Color: white; text-align: center;
+}
+h2{
+    font-size: 73px;
+}
+h3
+{
+    font-size: 60px;
+}
+h4
+{
+    font-size: 44px;
+}
+p
+{
+ font-size:16px; text-align: justify; color:white;
+}
+img
+{
+display: block; margin: auto;
+}
+.film
+{
+    color:yellow;
+}
+#link
+{
+    color: white;
+}
+a {
+    color:white; text-decoration: underline;
+
+}
