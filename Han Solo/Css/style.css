@@ -1,6 +1,6 @@
 @font-face{
     font-family: Jedi;
-    src: url("../font/starjedi.");
+    src: url("../font/starjedi.ttf");
 }
 
 body
@@ -11,7 +11,11 @@ body
 }
 h1
 {
- font-size: 140px; color:yellow; text-align: center; margin:0px; font-family: Jedi
+ font-size: 140px;
+    color:yellow;
+    text-align: center;
+    margin:0px;
+    font-family: Jedi;
 }
 
 h2, h3, h4
