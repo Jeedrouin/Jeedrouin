@@ -1,1 +1,73 @@
-<img src="img/Scape.jpg" class="img-fluid" alt="Responsive image">
+html,body{
+    margin:0;
+    height:100%;
+}
+
+.Gris{
+    background-color: dimgray;
+    height: 200px;
+}
+.img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+@font-face {
+    font-family: mapolice;
+    src:url("Font/BebasNeue-Regular.ttf");
+}
+
+h1{
+    font-family: maPolice;
+    font-size: 24px;
+}
+
+
+h2{
+    font-family: maPolice;
+    font-size: 44px;
+    Color:dimgray ;
+}
+
+button
+{
+    font-family: maPolice;
+    font-size: 32px;
+
+}
+.centre {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centre2 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.centre3 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.centre4 {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+hr{
+
+    max-width: 150px;
+    border-width: 3px;
+    border-color:red;
+}
+

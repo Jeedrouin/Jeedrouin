@@ -1,0 +1,15 @@
+html,body{
+    margin:0;
+    height:100%;
+}
+
+.gris {
+    Background-color:lightslategray;
+    height: 100px;
+}
+
+.img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
